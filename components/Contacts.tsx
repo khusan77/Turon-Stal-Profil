@@ -80,7 +80,7 @@ const Contacts = () => {
               {t("Оцинкованный прокат")}: <br /> +998 94 672 40 00 <br />
             </p>
             <p className="font-normal text-base text-slate-200 mb-3 relative z-50">
-              {t("Трубная продукция")}: <br /> +998 93 554 98 98
+              {t("Трубная продукция")}: <br /> +998 90 109 09 09
               <br />
             </p>
             <p className="font-normal text-base text-slate-200 mb-3 relative z-50">
@@ -88,7 +88,7 @@ const Contacts = () => {
               17 17
             </p>
             <p className="font-normal text-base text-slate-200 relative z-50">
-              {t("Металлопрокат")}: <br /> +998 90 109 09 09
+              {t("Металлопрокат")}: <br /> +998 93 554 98 98
             </p>
             <div className="md:mt-0 mt-8 mb-4">
               <div
