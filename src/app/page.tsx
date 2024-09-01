@@ -1,8 +1,4 @@
-
-import { useState } from 'react'
 import dynamic from 'next/dynamic'
-
-
 import { navItems } from "@/data";
 import { FloatingNav } from "@/components/ui/FloatingNavbar";
 const Hero = dynamic(() => import('@/components/Hero'), {ssr: false})

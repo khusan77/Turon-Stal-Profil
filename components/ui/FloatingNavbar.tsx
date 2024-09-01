@@ -154,6 +154,7 @@ export const FloatingNav = ({
             </>
           )}
         </Listbox>
+        
       </motion.div>
     </AnimatePresence>
   );
